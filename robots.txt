@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bihobauta.icepenguino.com/sitemap.xml
